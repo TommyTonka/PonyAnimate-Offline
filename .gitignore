@@ -1,4 +1,2 @@
 
-*.zip
-wrapper/_SAVED/movie-0000000.xml
-wrapper/_SAVED/movie-0000001.xml
+wrapper/_SAVED/*
